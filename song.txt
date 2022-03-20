@@ -8,3 +8,4 @@ New text lines
 To do First example
 
 Comment 1
+Comment 2
